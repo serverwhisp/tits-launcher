@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "id": "vanilla",
+      "name": "Vanilla Test",
+      "url": "https://raw.githubusercontent.com/serverwhisp/mc-launcher/main/packs/vanilla/manifest.json"
+    }
+  ]
+}
