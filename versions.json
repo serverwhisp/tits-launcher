@@ -13,7 +13,7 @@
       "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packs/bettermc/manifest.json",
       "mc_version": "1.19.2",
       "loader": "fabric",
-      "fabric_loader": "PUT_YOUR_LOADER_VERSION_HERE"
+      "fabric_loader": "0.14.9"
     }
   ]
 }
