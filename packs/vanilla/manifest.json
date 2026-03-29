@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "main_jar": "test.txt",
+  "files": [
+    {
+      "path": "test.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/mc-launcher/main/test.txt",
+      "sha1": ""
+    }
+  ]
+}
