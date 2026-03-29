@@ -1,0 +1,44 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  backgroundimage = resourcepacks/Graphics/loading.png
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  action = editprogressbar
+  y = -74
+  barcolor = #22c7d1
+}
+
+customization {
+  path = resourcepacks/Graphics/lps.png
+  orientation = bottom-left
+  x = 7
+  width = 80
+  action = addtexture
+  actionid = 3fd4f107-c75c-4694-81f6-96d4a83150601661099266472
+  y = -7
+  height = 14
+}
+
+customization {
+  path = resourcepacks/Graphics/mojang.png
+  orientation = mid-centered
+  x = 0
+  width = 426
+  action = addtexture
+  actionid = ec9fec8b-81e8-4e30-814a-9f6657d1a9a81661099274186
+  y = 0
+  height = 100
+}
+
