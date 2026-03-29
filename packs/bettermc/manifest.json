@@ -1,1 +1,14 @@
-
+{
+  "files": [
+    {
+      "path": "mods/examplemod.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/examplemod.jar",
+      "sha1": ""
+    },
+    {
+      "path": "config/example-config.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/example-config.json",
+      "sha1": ""
+    }
+  ]
+}
