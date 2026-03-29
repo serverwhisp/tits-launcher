@@ -3,12 +3,7 @@
     {
       "path": "mods/test1.txt",
       "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/files/test1.txt",
-      "sha1": ""
-    },
-    {
-      "path": "config/test2.txt",
-      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/files/test2.txt",
-      "sha1": ""
+      "sha1": "2aae6c35c94fcfb415dbe95f408b9ce91ee846ed"
     }
   ]
 }
