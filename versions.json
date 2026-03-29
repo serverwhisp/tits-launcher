@@ -4,6 +4,7 @@
       "id": "debug-1201-demo",
       "name": "(DEBUG) 1.20.1 Demo",
       "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packs/vanilla/manifest.json",
+      "auth_server": "https://auth.myserver.com/api/yggdrasil",
       "mc_version": "1.20.1",
       "loader": "vanilla"
     },
@@ -11,6 +12,7 @@
       "id": "bettermc-1192",
       "name": "BetterMC 1.19.2",
       "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packs/bettermc/manifest.json",
+      "auth_server": "https://auth.myserver.com/api/yggdrasil",
       "mc_version": "1.19.2",
       "loader": "fabric",
       "fabric_loader": "0.14.9"
