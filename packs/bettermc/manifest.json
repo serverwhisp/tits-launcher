@@ -1,14 +1,1519 @@
 {
   "files": [
     {
-      "path": "mods/examplemod.jar",
-      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/examplemod.jar",
-      "sha1": ""
+      "path": "config/.gitkeep",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/.gitkeep",
+      "sha1": "ba8ab5a0280b953aa97435ff8946cbcbb2755a27"
     },
     {
-      "path": "config/example-config.json",
-      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/example-config.json",
-      "sha1": ""
+      "path": "config/bcc.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/bcc.json",
+      "sha1": "7e608debb3029c30f8143e52e8809852b5698197"
+    },
+    {
+      "path": "config/carrier.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/carrier.json",
+      "sha1": "87e97cd247a954e9fca8f712974a93e7222f4042"
+    },
+    {
+      "path": "config/charm.toml",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/charm.toml",
+      "sha1": "bb0534ed97b7fa5df02d70871f4c3d9d7a06fba6"
+    },
+    {
+      "path": "config/debugify.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/debugify.json",
+      "sha1": "34324169a8702d198216f5eb029908a1266b624d"
+    },
+    {
+      "path": "config/illuminations.properties",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/illuminations.properties",
+      "sha1": "7712661d2d946f644a6baae0fba2cd954a8fbc37"
+    },
+    {
+      "path": "config/inventoryhud.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/inventoryhud.json",
+      "sha1": "6565e1284de3074ac7b1be73c0558881b89100f0"
+    },
+    {
+      "path": "config/lambdabettergrass.toml",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/lambdabettergrass.toml",
+      "sha1": "08299faddb91f2a56ee97f4d7e349085f085690f"
+    },
+    {
+      "path": "config/lambdynlights.toml",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/lambdynlights.toml",
+      "sha1": "a4bf6af2e8b012b46496a31fa8243a7c1bd7f64d"
+    },
+    {
+      "path": "config/puzzle.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/puzzle.json",
+      "sha1": "94d50a86ed8cd1a776114b518dae3604fe7fbc36"
+    },
+    {
+      "path": "config/sdrp.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/sdrp.json",
+      "sha1": "18e1515ba65d020a869f725c89a5ca09bd1dd3fd"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/sodium-extra-options.json",
+      "sha1": "158e8c7bbb195c1f09a4d54db6d15776da106c42"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/sodium-extra.properties",
+      "sha1": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/sodium-mixins.properties",
+      "sha1": "09db7f09d6dfd063ec4c7c534102892d67655d98"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/sodium-options.json",
+      "sha1": "93ca40d20769fef06a59a289f0d90d7377ce44cc"
+    },
+    {
+      "path": "config/xaerominimap.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/xaerominimap.txt",
+      "sha1": "9092e08b4bd4b65d9942424132a91058fb7da5b0"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/xaerominimap_entities.json",
+      "sha1": "b01378b54251c4524ef3e02f9210edcbc9c9b67e"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/xaeropatreon.txt",
+      "sha1": "ea102322bdf5be36acef1ed783e85b6a0d1ee418"
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/xaeroworldmap.txt",
+      "sha1": "b7de8a8934f08d68f0efc211507d496e1ee99bc7"
+    },
+    {
+      "path": "config/bclib/biomes.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/bclib/biomes.json",
+      "sha1": "2b4fa70cdcc1c4328e7f2bd9c4c54220301d9e4d"
+    },
+    {
+      "path": "config/bclib/cache.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/bclib/cache.json",
+      "sha1": "c7e0ba9020c35de0d39b4ec9714c22d6e113b367"
+    },
+    {
+      "path": "config/bclib/client.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/bclib/client.json",
+      "sha1": "516d1d681087964dabfba6a3189eea1470aabed6"
+    },
+    {
+      "path": "config/bclib/generator.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/bclib/generator.json",
+      "sha1": "f12c5c3b52983d0a2e75510e6f2003e09997b17d"
+    },
+    {
+      "path": "config/bclib/main.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/bclib/main.json",
+      "sha1": "01801a313c2df8dac10ab7f0569e0576ca96310c"
+    },
+    {
+      "path": "config/bclib/recipes.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/bclib/recipes.json",
+      "sha1": "67810c1d7601495e42c579bad02b5371e16a3a9b"
+    },
+    {
+      "path": "config/bclib/server.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/bclib/server.json",
+      "sha1": "0bcc751d5223ddb960c01e3dc02af1b9b34d778b"
+    },
+    {
+      "path": "config/bhmenu/bhmenu-client.properties",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/bhmenu/bhmenu-client.properties",
+      "sha1": "e66b4fb8ec1abacba244db779e3c06f7ff17b8bb"
+    },
+    {
+      "path": "config/byg/biomepedia.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/biomepedia.json5",
+      "sha1": "204539f185fa3c83e5495fd6bf8ca4febe7fae09"
+    },
+    {
+      "path": "config/byg/config_versions.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/config_versions.json5",
+      "sha1": "45f744d65acaf1caaaffe562a2a194a83f037222"
+    },
+    {
+      "path": "config/byg/end-biomes.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/end-biomes.json5",
+      "sha1": "44e436d52c042d6f33a756ec4a5d1b5b8ec00b5f"
+    },
+    {
+      "path": "config/byg/growing-patterns.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/growing-patterns.json5",
+      "sha1": "de72a31bf0fd9623f1fe9c78df5299c6c583dea1"
+    },
+    {
+      "path": "config/byg/nether-biomes.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/nether-biomes.json5",
+      "sha1": "d66887940ea3008788069d19ba7888a32f1dfbef"
+    },
+    {
+      "path": "config/byg/README.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/README.txt",
+      "sha1": "748716cdc4378ace7f71120a392454dee4398f8b"
+    },
+    {
+      "path": "config/byg/settings.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/settings.json5",
+      "sha1": "06f1ee7fa1ac0014d3e4129c6c1c3b018ab32b14"
+    },
+    {
+      "path": "config/byg/trades.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/trades.json5",
+      "sha1": "b11e6be4125cb75933607661951efef32b1b59cd"
+    },
+    {
+      "path": "config/byg/backups/last_working_configs_backup.zip",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/backups/last_working_configs_backup.zip",
+      "sha1": "4ca42cdd19478feb7f7e5a8556b5e1d78ab91135"
+    },
+    {
+      "path": "config/byg/client/biomepedia_inventory.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/client/biomepedia_inventory.json5",
+      "sha1": "20d851e124e8f01f40aa4fd4bdde2f27825b58df"
+    },
+    {
+      "path": "config/byg/overworld/byg-overworld-biomes.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/byg-overworld-biomes.json5",
+      "sha1": "dd7850df17e912867057801d4d36bf100ef8a626"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5",
+      "sha1": "587b97316fd3b091b4f7b4fefc1f007acbb626c8"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_vanilla.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_vanilla.json5",
+      "sha1": "102280a33aad0819a01bffbe74d1f39b9d18d4d3"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_1.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_1.json5",
+      "sha1": "342e04bdd8f51bd4773251f6daab506f80ec693d"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_2.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_2.json5",
+      "sha1": "247a8de7eb4e78179fe68fe1bb634c5d062b3c72"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_3.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_3.json5",
+      "sha1": "6d544cdab5a187fed201c96e8c77958c549614ac"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_vanilla.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_vanilla.json5",
+      "sha1": "90adb4a6adafc27dcc2afccf7a81dfd3c1fa2d93"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/middle_biomes_variant/middle_biomes_variant_vanilla.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/middle_biomes_variant/middle_biomes_variant_vanilla.json5",
+      "sha1": "fb250a3dc778f11316144180601f8cc1bfa132ac"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/oceans/oceans_1.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/oceans/oceans_1.json5",
+      "sha1": "36a6e452ea25a0c86c06fb9756733265f6352639"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/oceans/oceans_vanilla.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/oceans/oceans_vanilla.json5",
+      "sha1": "ac322e035e4254545f24b3dd6c53485802f86eea"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_1.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_1.json5",
+      "sha1": "c9ca7a5b4bf0b8db2f74380d4e52a7decc8782c8"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_vanilla.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_vanilla.json5",
+      "sha1": "61792456542d8b68a27dd9b1e57a88eb53ef59b8"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/peak_biomes_variant/peak_biomes_variant_vanilla.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/peak_biomes_variant/peak_biomes_variant_vanilla.json5",
+      "sha1": "2b0b4e60121600715aa9386c2fef1f28da2e1767"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_1.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_1.json5",
+      "sha1": "e61c32969fc160789b7586a49c4b962a76685444"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_2.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_2.json5",
+      "sha1": "92d633dd7bece91ac9c2d4021bcef12e9f1b749e"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_3.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_3.json5",
+      "sha1": "92d633dd7bece91ac9c2d4021bcef12e9f1b749e"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_vanilla.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_vanilla.json5",
+      "sha1": "9329bbf5d90a3a8ab54925481e2f106a7d4604ee"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/plateau_biomes_variant/plateau_biomes_variant_vanilla.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/plateau_biomes_variant/plateau_biomes_variant_vanilla.json5",
+      "sha1": "89bc6e0da9ce0ecf7829838f6863226616e767a5"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/shattered_biomes/shattered_biomes_vanilla.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/shattered_biomes/shattered_biomes_vanilla.json5",
+      "sha1": "71fc3dd346a8ff7e0963cc708c49dd1532cdab29"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_1.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_1.json5",
+      "sha1": "1af2e91f5641edb0c2e9fae7d248b523fd6796b4"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_vanilla.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_vanilla.json5",
+      "sha1": "e76c48044c70c5378a07407c085af5bd408c6990"
+    },
+    {
+      "path": "config/byg/overworld/biome_selectors/slope_biomes_variant/slope_biomes_variant_vanilla.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/biome_selectors/slope_biomes_variant/slope_biomes_variant_vanilla.json5",
+      "sha1": "f3b8c06ff709cd08a7be70510ce8c427e0508247"
+    },
+    {
+      "path": "config/byg/overworld/regions/rare_region_1.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/regions/rare_region_1.json5",
+      "sha1": "c64e3394f1a532f25443232698024eab6f83ac02"
+    },
+    {
+      "path": "config/byg/overworld/regions/region_1.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/regions/region_1.json5",
+      "sha1": "68546c4d7d08f8409f3340fe9f891cbefe1d943b"
+    },
+    {
+      "path": "config/byg/overworld/regions/region_2.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/regions/region_2.json5",
+      "sha1": "7a7a8f7ffe5855d9514938c98d9df31eba141f7f"
+    },
+    {
+      "path": "config/byg/overworld/regions/region_3.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/overworld/regions/region_3.json5",
+      "sha1": "7c62c1366a8444a5799e215ef1989bb5d6dca2a1"
+    },
+    {
+      "path": "config/byg/surface_rules/end_surface_rules.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/surface_rules/end_surface_rules.json5",
+      "sha1": "c5ebac837ad7d236defc03aeea5d4c7e9f123ec9"
+    },
+    {
+      "path": "config/byg/surface_rules/nether_surface_rules.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/surface_rules/nether_surface_rules.json5",
+      "sha1": "b403c6bdf572618eff45eb4c516f11ddc8358b9f"
+    },
+    {
+      "path": "config/byg/surface_rules/overworld_surface_rules.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/byg/surface_rules/overworld_surface_rules.json5",
+      "sha1": "bb7f302b795ba10bddb7cd08c632525a85e9ccdf"
+    },
+    {
+      "path": "config/drippyloadingscreen/config.cfg",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/drippyloadingscreen/config.cfg",
+      "sha1": "7ed8f18197900d3bc680490cf0c85930e8a334a1"
+    },
+    {
+      "path": "config/drippyloadingscreen/customization/loading.dllayout",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/drippyloadingscreen/customization/loading.dllayout",
+      "sha1": "b79d264722d81d14b5c3dbc47bb2ea2609b086d4"
+    },
+    {
+      "path": "config/drippyloadingscreen/locals/en_us.local",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/drippyloadingscreen/locals/en_us.local",
+      "sha1": "316ab51bfbc53d3ab00c8a38117c1aacd0299063"
+    },
+    {
+      "path": "config/fancymenu/config.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/config.txt",
+      "sha1": "c337aaebc79df79930a87b5c4eab14a7c02235ca"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/customizablemenus.txt",
+      "sha1": "7df414471825b6a19e76a6210e7227cce1e4d6ff"
+    },
+    {
+      "path": "config/fancymenu/menu_identifiers.db",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/menu_identifiers.db",
+      "sha1": "c4ffbfdf7e6bc0e711bd5ee8b59751d9b3c218b6"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/user_variables.db",
+      "sha1": "3eeef87ee5e7b978339ad53e5e97deecc694b849"
+    },
+    {
+      "path": "config/fancymenu/customization/Main Menu.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/customization/Main Menu.txt",
+      "sha1": "a8041c9195cbdfa683bb499f2d0d8cd4434967be"
+    },
+    {
+      "path": "config/fancymenu/customization/Menu.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/customization/Menu.txt",
+      "sha1": "c3db69622ab5322a1180ecaa63afe4b24e41c758"
+    },
+    {
+      "path": "config/fancymenu/customization/multiplayer.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/customization/multiplayer.txt",
+      "sha1": "73597983279d39cf49f72a8246764beba1f366a0"
+    },
+    {
+      "path": "config/fancymenu/locals/de_de.local",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/locals/de_de.local",
+      "sha1": "98b50323485e91e3cc989364873878e42386c372"
+    },
+    {
+      "path": "config/fancymenu/locals/en_us.local",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/locals/en_us.local",
+      "sha1": "d43b42627f38ea6a67897a34db3c2203dce32bf8"
+    },
+    {
+      "path": "config/fancymenu/locals/pl_pl.local",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/locals/pl_pl.local",
+      "sha1": "6b065a9ef9287ac5c88775c78f247f607764ad12"
+    },
+    {
+      "path": "config/fancymenu/locals/pt_br.local",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/locals/pt_br.local",
+      "sha1": "ab64076d828f5700d3b7e5a5a312b76eaa3e1b16"
+    },
+    {
+      "path": "config/fancymenu/locals/zh_cn.local",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/locals/zh_cn.local",
+      "sha1": "8e166ec05744eb904901dbedcd5b9374c1ba8f97"
+    },
+    {
+      "path": "config/fancymenu/minecraftwindow/icons/icon16x16.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/minecraftwindow/icons/icon16x16.png",
+      "sha1": "c1b354746ffd9555a27125fbc64e74334913a0b3"
+    },
+    {
+      "path": "config/fancymenu/minecraftwindow/icons/icon32x32.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/minecraftwindow/icons/icon32x32.png",
+      "sha1": "4480dc979bb52f0e9288dd8d8924a84815a61a5b"
+    },
+    {
+      "path": "config/fancymenu/slideshows/bettermcslideshow/properties.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/slideshows/bettermcslideshow/properties.txt",
+      "sha1": "00724f948b7a970800c229cb94f2594c866f0c25"
+    },
+    {
+      "path": "config/fancymenu/slideshows/bettermcslideshow/images/image_1.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/slideshows/bettermcslideshow/images/image_1.png",
+      "sha1": "554390bbfda41a919155b812a5dd82876161ffb1"
+    },
+    {
+      "path": "config/fancymenu/slideshows/bettermcslideshow/images/image_2.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/slideshows/bettermcslideshow/images/image_2.png",
+      "sha1": "91448e6044c9492acb2bd84861068d97beeaf24e"
+    },
+    {
+      "path": "config/fancymenu/slideshows/bettermcslideshow/images/image_3.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/slideshows/bettermcslideshow/images/image_3.png",
+      "sha1": "1827c08a0578a5b2e0581d7226ddfacf69b430f0"
+    },
+    {
+      "path": "config/fancymenu/slideshows/bettermcslideshow/images/image_4.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/slideshows/bettermcslideshow/images/image_4.png",
+      "sha1": "66606d6e45925b824a271ba3b5596a18189e83b7"
+    },
+    {
+      "path": "config/fancymenu/slideshows/bettermcslideshow/images/image_5.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/slideshows/bettermcslideshow/images/image_5.png",
+      "sha1": "ba69d0b5d8f437a15d5e9f44e18ea27a4ab78fa7"
+    },
+    {
+      "path": "config/fancymenu/slideshows/bettermcslideshow/images/image_6.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/slideshows/bettermcslideshow/images/image_6.png",
+      "sha1": "41cd9ea274d9a29af8e6ca21928a24f4ba375edf"
+    },
+    {
+      "path": "config/fancymenu/slideshows/bettermcslideshow/images/image_7.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/slideshows/bettermcslideshow/images/image_7.png",
+      "sha1": "c3afe617f9e4c01e31480dbc7c6946effa085861"
+    },
+    {
+      "path": "config/fancymenu/slideshows/bettermcslideshow/images/image_8.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/slideshows/bettermcslideshow/images/image_8.png",
+      "sha1": "8a51981fde91fc4a51f77edd48dec4d511fdd706"
+    },
+    {
+      "path": "config/fancymenu/slideshows/bettermcslideshow/images/image_9.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/fancymenu/slideshows/bettermcslideshow/images/image_9.png",
+      "sha1": "db66939cf0e92cde1da77892771242663bdf5eb5"
+    },
+    {
+      "path": "config/InventoryHUD/curios.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/InventoryHUD/curios.json",
+      "sha1": "8de1dc4355036f4dc8fdbb73cd5c8e9f3f380cb6"
+    },
+    {
+      "path": "config/NoChatReports/NCR-Client.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/NoChatReports/NCR-Client.json",
+      "sha1": "9ff2b043fc44c1029d65191cd1904f5b11e9d0cb"
+    },
+    {
+      "path": "config/NoChatReports/NCR-Common.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/NoChatReports/NCR-Common.json",
+      "sha1": "924a4ddb04ad69972c5a34fd83d20d299ef5bbd2"
+    },
+    {
+      "path": "config/NoChatReports/NCR-ServerWhitelist.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/NoChatReports/NCR-ServerWhitelist.json",
+      "sha1": "ce1db8a52976cd7fa539c671260b371d8f448c09"
+    },
+    {
+      "path": "config/NoChatReports/README.md",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/NoChatReports/README.md",
+      "sha1": "75d98286a0aa3e180708523c8f582a2d23e590b3"
+    },
+    {
+      "path": "config/openloader/advanced_options.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/openloader/advanced_options.json",
+      "sha1": "965027c2fd865f2e3865fa3ad3a1283432c4c122"
+    },
+    {
+      "path": "config/openloader/data/dungeons-arise-1-19-v1-1.zip",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/openloader/data/dungeons-arise-1-19-v1-1.zip",
+      "sha1": "30a85599137515ead7d63b24b9f89c7153965658"
+    },
+    {
+      "path": "config/openloader/data/ichphilipp-s-endcity-better-end-1-18-1.zip",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/openloader/data/ichphilipp-s-endcity-better-end-1-18-1.zip",
+      "sha1": "566b38c7ba1852f3725acf4823107d87b969db07"
+    },
+    {
+      "path": "config/openloader/data/Repurposed_Structures-Friends_And_Foes-v2.zip",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/openloader/data/Repurposed_Structures-Friends_And_Foes-v2.zip",
+      "sha1": "9c859aae24f60d19f3bda7e05a64e52165a94e0a"
+    },
+    {
+      "path": "config/openloader/data/Repurposed_Structures-More_Villagers_v7.zip",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/openloader/data/Repurposed_Structures-More_Villagers_v7.zip",
+      "sha1": "5f540aca8fdead037a76c360bef248126fc2fbbd"
+    },
+    {
+      "path": "config/roughlyenoughitems/config.json5",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/roughlyenoughitems/config.json5",
+      "sha1": "cbc9c2887470548dcbf505bd6ee8238bcca4abf2"
+    },
+    {
+      "path": "config/starterkit/starterkit-old.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/starterkit/starterkit-old.txt",
+      "sha1": "ca49dc8d02a7a63dd77e196360f40af3d8b32095"
+    },
+    {
+      "path": "config/starterkit/starterkit-old_0.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/starterkit/starterkit-old_0.txt",
+      "sha1": "fbd7b3818aba43e50af560838f610222dd354d4f"
+    },
+    {
+      "path": "config/starterkit/starterkit-old_1.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/starterkit/starterkit-old_1.txt",
+      "sha1": "ef79882ef8573dea8abeb7e7b479cc70320cea43"
+    },
+    {
+      "path": "config/starterkit/starterkit-old_2.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/starterkit/starterkit-old_2.txt",
+      "sha1": "62401b469c0b1879105155dee3a14dcf9c3eb509"
+    },
+    {
+      "path": "config/starterkit/starterkit-old_3.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/starterkit/starterkit-old_3.txt",
+      "sha1": "0eec97c852ebbcaf3201903e79d196715f636697"
+    },
+    {
+      "path": "config/starterkit/starterkit.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/starterkit/starterkit.txt",
+      "sha1": "286e0854f5f5f937a4ffeef1f9a90bc5f06ae381"
+    },
+    {
+      "path": "config/waila/blacklist.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/waila/blacklist.json",
+      "sha1": "1128a7a6ba3b485802dae4c5b9850d313cebc5d3"
+    },
+    {
+      "path": "config/waila/waila.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/waila/waila.json",
+      "sha1": "a58b3d64ab261310bb20427ae02f27e09c0c48ca"
+    },
+    {
+      "path": "config/waila/waila_plugins.json",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/config/waila/waila_plugins.json",
+      "sha1": "9e52ad9939fc58742e8e3c5427309989021a89f6"
+    },
+    {
+      "path": "mods/.gitkeep",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/.gitkeep",
+      "sha1": "ba8ab5a0280b953aa97435ff8946cbcbb2755a27"
+    },
+    {
+      "path": "mods/3dskinlayers-fabric-1.5.1-mc1.19.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/3dskinlayers-fabric-1.5.1-mc1.19.1.jar",
+      "sha1": "90941255153e40117856208a08dacbd513e11e06"
+    },
+    {
+      "path": "mods/AdditionalStructures-1.19.x-(v.4.1.0).jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/AdditionalStructures-1.19.x-(v.4.1.0).jar",
+      "sha1": "751681fca8c0bfc52dacca906a630f5325cc31a5"
+    },
+    {
+      "path": "mods/Adorn-3.6.1+1.19-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Adorn-3.6.1+1.19-fabric.jar",
+      "sha1": "1dcdb74b96ac88585619da15e620d3da71436f2a"
+    },
+    {
+      "path": "mods/adventurez-1.4.16.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/adventurez-1.4.16.jar",
+      "sha1": "7c766df97bf4afa0c5274b006d3c4914a7aca018"
+    },
+    {
+      "path": "mods/animatica-0.5+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/animatica-0.5+1.19.jar",
+      "sha1": "d58560b9c226df726bdddc7ab25748a158a0cb3d"
+    },
+    {
+      "path": "mods/another_furniture-fabric-2.0.3-1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/another_furniture-fabric-2.0.3-1.19.2.jar",
+      "sha1": "10745d6af96e29ff84d3a81e1fcfa03b0a57c02c"
+    },
+    {
+      "path": "mods/architects-palette-fabric-2.1.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/architects-palette-fabric-2.1.1.jar",
+      "sha1": "4c58faed102dbfb21b464b17b2b90e32f733def7"
+    },
+    {
+      "path": "mods/architectury-6.2.43-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/architectury-6.2.43-fabric.jar",
+      "sha1": "e8f8e0844a4a82125a27b9f59db579dd6547b530"
+    },
+    {
+      "path": "mods/AttributeFix-Fabric-1.19.2-17.1.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/AttributeFix-Fabric-1.19.2-17.1.2.jar",
+      "sha1": "2d10043069ed01ab167f309fa903558c60922a84"
+    },
+    {
+      "path": "mods/auudio_fabric_1.0.3_MC_1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/auudio_fabric_1.0.3_MC_1.19.jar",
+      "sha1": "9ff95e29e0b2a40351f6b27cd919e7f048b22d8f"
+    },
+    {
+      "path": "mods/axolotl-item-fix-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/axolotl-item-fix-1.1.3.jar",
+      "sha1": "f60f9ea1e6afded2935ba5b1406aedcf429c20f8"
+    },
+    {
+      "path": "mods/badpackets-fabric-0.2.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/badpackets-fabric-0.2.0.jar",
+      "sha1": "8d0855fd49c43921108431501600d976b1927559"
+    },
+    {
+      "path": "mods/balm-fabric-4.5.2+0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/balm-fabric-4.5.2+0.jar",
+      "sha1": "1522f8c3eddd62ba81dbdf558462b1afe9de0d52"
+    },
+    {
+      "path": "mods/BarteringStation-v4.0.0-1.19.2-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/BarteringStation-v4.0.0-1.19.2-Fabric.jar",
+      "sha1": "41ae0b2ccd1fcda34b5d622f4dfe374a0ca6a71d"
+    },
+    {
+      "path": "mods/bclib-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/bclib-2.1.0.jar",
+      "sha1": "7b19f8f88da0350adff747c5dcd3523a6d7b0ce7"
+    },
+    {
+      "path": "mods/better-end-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/better-end-2.1.0.jar",
+      "sha1": "da944b2ace4bed4682694f395f027746778285b9"
+    },
+    {
+      "path": "mods/better-nether-7.1.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/better-nether-7.1.0.jar",
+      "sha1": "01e9a9df5917927fc7f1b2dfda04989348202895"
+    },
+    {
+      "path": "mods/BetterAdvancements-Fabric-1.19.2-0.2.2.142.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/BetterAdvancements-Fabric-1.19.2-0.2.2.142.jar",
+      "sha1": "80193c5596a77ea8dc1b81bc292907e153d0a6ee"
+    },
+    {
+      "path": "mods/BetterCompatibilityChecker-Fabric-2.0.2-build.16+mc1.19.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/BetterCompatibilityChecker-Fabric-2.0.2-build.16+mc1.19.1.jar",
+      "sha1": "929a35cd548cb326c2a085a02b9f89a83e4899cd"
+    },
+    {
+      "path": "mods/betterstats-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/betterstats-1.2.1.jar",
+      "sha1": "551aeec0a6bf373d7e2c5c93909be6b9ab220ca5"
+    },
+    {
+      "path": "mods/BetterTridents-v4.0.1-1.19.2-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/BetterTridents-v4.0.1-1.19.2-Fabric.jar",
+      "sha1": "7a1d1493ef52ed80ca4b9e0f4dabf21138b3cd47"
+    },
+    {
+      "path": "mods/BHMenu-Fabric-1.19-1.3.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/BHMenu-Fabric-1.19-1.3.jar",
+      "sha1": "1fd77a99d7a1722fe700dd6b84f047bb14a7bc6e"
+    },
+    {
+      "path": "mods/biomemakeover-FABRIC-1.19.2-1.5.12.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/biomemakeover-FABRIC-1.19.2-1.5.12.jar",
+      "sha1": "c0d08594d6383417b3af97a42d43d7180df6609a"
+    },
+    {
+      "path": "mods/blur-2.6.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/blur-2.6.0.jar",
+      "sha1": "863af78e9486755bec63ee68b8ba676dc70f5313"
+    },
+    {
+      "path": "mods/BOMD-1.4.2-1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/BOMD-1.4.2-1.19.jar",
+      "sha1": "24e519fa0ccf775ecfa60a3ef10365d185218f0d"
+    },
+    {
+      "path": "mods/Bookshelf-Fabric-1.19.2-16.1.5.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Bookshelf-Fabric-1.19.2-16.1.5.jar",
+      "sha1": "a8f0b827c599a20303f22ab2da799e0d8a9b02fb"
+    },
+    {
+      "path": "mods/BountifulFabric-4.0.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/BountifulFabric-4.0.0.jar",
+      "sha1": "3fab434b7de803e429ef36a30ee5c2498574959a"
+    },
+    {
+      "path": "mods/cardinal-components-api-5.0.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/cardinal-components-api-5.0.1.jar",
+      "sha1": "5a7b5e83ca14115934b01ae8840474c6446a45ec"
+    },
+    {
+      "path": "mods/carrier-1.11.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/carrier-1.11.0.jar",
+      "sha1": "edd71c816e6973837ff33ce60d52c5b8e44fb2fa"
+    },
+    {
+      "path": "mods/cem-0.7.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/cem-0.7.1.jar",
+      "sha1": "96c943ee9282945877fe85e7c474ccddbaca0401"
+    },
+    {
+      "path": "mods/charm-fabric-1.19.2-4.2.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/charm-fabric-1.19.2-4.2.2.jar",
+      "sha1": "d2534d9f2478bfcaf7a2c2bd3b0926630b8f4db8"
+    },
+    {
+      "path": "mods/charmofundying-fabric-6.0.0+1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/charmofundying-fabric-6.0.0+1.19.2.jar",
+      "sha1": "31a9dc36bd1a775060a7db8790dd841ee6430322"
+    },
+    {
+      "path": "mods/chat_heads-0.7.1-fabric-1.19.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/chat_heads-0.7.1-fabric-1.19.1.jar",
+      "sha1": "a514af9368f6c75130df839941f7cdc353b16d7c"
+    },
+    {
+      "path": "mods/cherishedworlds-fabric-6.0.1+1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/cherishedworlds-fabric-6.0.1+1.19.2.jar",
+      "sha1": "b9814e80939f7e3a13378b5b11f4c06c7ab44963"
+    },
+    {
+      "path": "mods/ChubbyStuff-2.1.0+1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/ChubbyStuff-2.1.0+1.19.2.jar",
+      "sha1": "7dacac1ff71609beecbc05eacd1c5823880f4bdd"
+    },
+    {
+      "path": "mods/CITResewn-1.1.1+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/CITResewn-1.1.1+1.19.jar",
+      "sha1": "5f10d78456c95f4a2e53a9b29884629362153848"
+    },
+    {
+      "path": "mods/cleancut-1.19.2-5.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/cleancut-1.19.2-5.1-fabric.jar",
+      "sha1": "edc0902b86dc21459cd498355ca1f94a628be3d3"
+    },
+    {
+      "path": "mods/cloth-config-5.3.58-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/cloth-config-5.3.58-fabric.jar",
+      "sha1": "0ecf4d2a977d7a81800e44fefbd62c3de7f76387"
+    },
+    {
+      "path": "mods/cloth-config-8.1.77-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/cloth-config-8.1.77-fabric.jar",
+      "sha1": "2fae6b5b8985babc340828ac45958be7b2dd2253"
+    },
+    {
+      "path": "mods/Clumps-fabric-1.19.2-9.0.0+11.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Clumps-fabric-1.19.2-9.0.0+11.jar",
+      "sha1": "b386a8ee6c87cc05f48da62e4991b92c3f67da39"
+    },
+    {
+      "path": "mods/collective-fabric-1.19.2-4.50.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/collective-fabric-1.19.2-4.50.jar",
+      "sha1": "118f6a502a556779cc9439240ffdb2818ff34e42"
+    },
+    {
+      "path": "mods/colormatic-3.1.2+mc.1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/colormatic-3.1.2+mc.1.19.jar",
+      "sha1": "7524e70ccf9968d14aadbeca03cd0ec226c04054"
+    },
+    {
+      "path": "mods/comforts-fabric-6.0.0+1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/comforts-fabric-6.0.0+1.19.2.jar",
+      "sha1": "0adda388fff38829eb491e58c5210bdffc5f7eb3"
+    },
+    {
+      "path": "mods/continuity-2.0.1+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/continuity-2.0.1+1.19.jar",
+      "sha1": "d82700772659f65560202f1cbd0e744007b21a75"
+    },
+    {
+      "path": "mods/Controlling-fabric-1.19.2-10.0+6.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Controlling-fabric-1.19.2-10.0+6.jar",
+      "sha1": "e3a235962174295b427902e607daeea4c0326aee"
+    },
+    {
+      "path": "mods/crawl-0.11.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/crawl-0.11.0.jar",
+      "sha1": "a61f8cad1d1bae9c5e29fad94d6bbcdf9f35103b"
+    },
+    {
+      "path": "mods/CreaturesFromTheSnow-2.4.2+1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/CreaturesFromTheSnow-2.4.2+1.19.2.jar",
+      "sha1": "b63128a4e76c56698f2de4f00b4a8601764b1d68"
+    },
+    {
+      "path": "mods/CullLessLeaves-1.0.5.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/CullLessLeaves-1.0.5.jar",
+      "sha1": "f37c98455ed9d166bfafaf2c413362439f446677"
+    },
+    {
+      "path": "mods/DarkPaintings-Fabric-1.19.2-13.1.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/DarkPaintings-Fabric-1.19.2-13.1.2.jar",
+      "sha1": "1c564d064e3602deef095278db2023aab5aed8cb"
+    },
+    {
+      "path": "mods/dashloader-4.1.3+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/dashloader-4.1.3+1.19.jar",
+      "sha1": "6e7a6748dcffaaa4e118dd61e43390de960336f9"
+    },
+    {
+      "path": "mods/dawn-3.5.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/dawn-3.5.0.jar",
+      "sha1": "50b0c2030ae6e7936b29e489df7a09866032be78"
+    },
+    {
+      "path": "mods/Debugify-2.5.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Debugify-2.5.0.jar",
+      "sha1": "69e036e30daab4beae265f099d33c620dcef7008"
+    },
+    {
+      "path": "mods/Decorative Blocks-fabric-1.19.2-3.0.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Decorative Blocks-fabric-1.19.2-3.0.0.jar",
+      "sha1": "5b1d7f70ac2a1bfe759b6a22f4e23fa868e72c87"
+    },
+    {
+      "path": "mods/deepslatecutting-1.19-1.4.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/deepslatecutting-1.19-1.4.0.jar",
+      "sha1": "212b4ac65c8692f0c9a1ef90f48e48b74585281b"
+    },
+    {
+      "path": "mods/descent-into-depths-1.0.0-1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/descent-into-depths-1.0.0-1.19.2.jar",
+      "sha1": "d33924e7d16d28476cde86584c8c1bf81f6425dd"
+    },
+    {
+      "path": "mods/DiagonalFences-v4.2.1-1.19.2-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/DiagonalFences-v4.2.1-1.19.2-Fabric.jar",
+      "sha1": "cd1156994c19737835dcd9603f6e9aaafd95c7d1"
+    },
+    {
+      "path": "mods/dragonloot-1.1.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/dragonloot-1.1.2.jar",
+      "sha1": "c2f5bdb0b3972e45bd682becd6a162737475abe6"
+    },
+    {
+      "path": "mods/drippyloadingscreen_fabric_1.6.4_MC_1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/drippyloadingscreen_fabric_1.6.4_MC_1.19.jar",
+      "sha1": "1e45338e01b4bffed509ded2e6f0a360ca2317bb"
+    },
+    {
+      "path": "mods/duckling-2.0.7-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/duckling-2.0.7-fabric.jar",
+      "sha1": "13f2121d28f7923512268168b18c2bbbc6c551f1"
+    },
+    {
+      "path": "mods/DungeonsArise-1.19-2.1.51-fabric-beta-hf.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/DungeonsArise-1.19-2.1.51-fabric-beta-hf.jar",
+      "sha1": "bdd5db66c011e53238d4560addc9c81b4f497285"
+    },
+    {
+      "path": "mods/EasyMagic-v4.3.2-1.19.2-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/EasyMagic-v4.3.2-1.19.2-Fabric.jar",
+      "sha1": "890396d72652fde40d0eda7ad457ddbf94fb0ad4"
+    },
+    {
+      "path": "mods/ecologics-fabric-1.19.2-2.1.9.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/ecologics-fabric-1.19.2-2.1.9.jar",
+      "sha1": "77025e91c00f15057a5e71c3d21dfbf5bdb6eb94"
+    },
+    {
+      "path": "mods/eden-ring-0.6.4.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/eden-ring-0.6.4.jar",
+      "sha1": "aeaf64c7357039b84911760d68fb56c81f488513"
+    },
+    {
+      "path": "mods/effective-1.2.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/effective-1.2.2.jar",
+      "sha1": "ae7007d53d5ee15d9e46240c004acc5630eac676"
+    },
+    {
+      "path": "mods/elytraslot-fabric-6.0.0+1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/elytraslot-fabric-6.0.0+1.19.2.jar",
+      "sha1": "744b37e91587b77c14d894f08dee3ca97f0576be"
+    },
+    {
+      "path": "mods/EnchantmentDescriptions-Fabric-1.19.2-13.0.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/EnchantmentDescriptions-Fabric-1.19.2-13.0.1.jar",
+      "sha1": "caf401dd493412f413cedd02f12954d1f32e9131"
+    },
+    {
+      "path": "mods/entityculling-fabric-1.5.2-mc1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/entityculling-fabric-1.5.2-mc1.19.jar",
+      "sha1": "ff5520d7b10342358575220d88bd39c8cea80dad"
+    },
+    {
+      "path": "mods/entity_texture_features_fabric_1.19.x-4.0.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/entity_texture_features_fabric_1.19.x-4.0.2.jar",
+      "sha1": "ca8adf2be87fca55363fa0a0c76f112e437dc08a"
+    },
+    {
+      "path": "mods/EquipmentCompare-1.19-fabric-1.3.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/EquipmentCompare-1.19-fabric-1.3.1.jar",
+      "sha1": "1a84286cd189a8335b02d90ecf5737c0bb191aac"
+    },
+    {
+      "path": "mods/everycomp-1.19.2-2.0.4.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/everycomp-1.19.2-2.0.4.jar",
+      "sha1": "cddcf32d4923213260237e012ff15846186b61eb"
+    },
+    {
+      "path": "mods/expandeddelight-0.2.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/expandeddelight-0.2.2.jar",
+      "sha1": "a4d38278912a1e95b5cad0ccc2e9c82270c7c1da"
+    },
+    {
+      "path": "mods/extended-armor-bars-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/extended-armor-bars-1.2.1.jar",
+      "sha1": "8936fbe94624fb45cc172915cd887f9ebf776bf4"
+    },
+    {
+      "path": "mods/fabric-api-0.60.0+1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/fabric-api-0.60.0+1.19.2.jar",
+      "sha1": "f50871a5552f12055b9d3f569ae4d1e914cda227"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.8.3+kotlin.1.7.10.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/fabric-language-kotlin-1.8.3+kotlin.1.7.10.jar",
+      "sha1": "80645897db245424cf1efb474e7bf34ddbc34212"
+    },
+    {
+      "path": "mods/fabric-seasons-1.4-BETA+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/fabric-seasons-1.4-BETA+1.19.jar",
+      "sha1": "aebfa31dd8694ad7dcd72b978d3c619a260f6175"
+    },
+    {
+      "path": "mods/fallingleaves-1.12.2+1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/fallingleaves-1.12.2+1.19.2.jar",
+      "sha1": "5fdab3d17a245f0aaa7e40901322c49d02044931"
+    },
+    {
+      "path": "mods/FallingTree-1.19.2-3.10.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/FallingTree-1.19.2-3.10.0.jar",
+      "sha1": "52d1a2d2eba71bb0257af18c5013b8fef9cf3961"
+    },
+    {
+      "path": "mods/fancymenu_fabric_2.12.1_MC_1.19-1.19.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/fancymenu_fabric_2.12.1_MC_1.19-1.19.1.jar",
+      "sha1": "777befc9c876879ca7c363a361d655d27229da19"
+    },
+    {
+      "path": "mods/farmers-delight-fabric-1.19.X-1.3.3.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/farmers-delight-fabric-1.19.X-1.3.3.jar",
+      "sha1": "f87e599589a9a9e9443d0c8c06b6b7922372e071"
+    },
+    {
+      "path": "mods/farmersknives-2.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/farmersknives-2.1.jar",
+      "sha1": "f51e76c8a245eafa5b739bd117f04831c7370db4"
+    },
+    {
+      "path": "mods/ferritecore-5.0.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/ferritecore-5.0.0-fabric.jar",
+      "sha1": "14ab2f560fce8f20f5af07129dd71130ab9bb03f"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v4.2.6-1.19.2-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/ForgeConfigAPIPort-v4.2.6-1.19.2-Fabric.jar",
+      "sha1": "cead17d7bd258c0b7566d05b0edcb9baea1443f6"
+    },
+    {
+      "path": "mods/frame-0.26.1+1.19-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/frame-0.26.1+1.19-fabric.jar",
+      "sha1": "a1897914f8e5b247ad3c8e73fa8019094b55ad0f"
+    },
+    {
+      "path": "mods/friendsandfoes-fabric-mc1.19.2-1.5.9.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/friendsandfoes-fabric-mc1.19.2-1.5.9.jar",
+      "sha1": "b35289ae828965fd033e32cf849bca71aaa84e7e"
+    },
+    {
+      "path": "mods/Galosphere-1.19.1-1.1.2-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Galosphere-1.19.1-1.1.2-Fabric.jar",
+      "sha1": "aa4981e16ece694363779a8e837b1bcdb17f90a7"
+    },
+    {
+      "path": "mods/geckolib-fabric-1.19-3.1.17.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/geckolib-fabric-1.19-3.1.17.jar",
+      "sha1": "44313da9c3c6a527953ec701300914f5693571ac"
+    },
+    {
+      "path": "mods/go-fish-1.6.0-1.19.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/go-fish-1.6.0-1.19.1.jar",
+      "sha1": "bb0748fa192cab451d4f57142ac361eb9827be2d"
+    },
+    {
+      "path": "mods/goblin-traders-1.5.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/goblin-traders-1.5.2.jar",
+      "sha1": "3df56374aec6ef49aa06fc9eb3fd14b57c5ab877"
+    },
+    {
+      "path": "mods/goodall-1.1.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/goodall-1.1.1-fabric.jar",
+      "sha1": "332166055d02299583fc9e91448e16c42adbb52e"
+    },
+    {
+      "path": "mods/Highlighter-1.19.1-fabric-1.1.4.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Highlighter-1.19.1-fabric-1.1.4.jar",
+      "sha1": "8cd2382c3573602e31810a43209d03dd9bf913d1"
+    },
+    {
+      "path": "mods/Iceberg-1.19.1-fabric-1.0.46.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Iceberg-1.19.1-fabric-1.0.46.jar",
+      "sha1": "cff3a1f0aa7bd3c6f3ac29ae5cb9e6aba991ecd1"
+    },
+    {
+      "path": "mods/illuminations-1.10.8.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/illuminations-1.10.8.jar",
+      "sha1": "649b2d5735590d32bbac68166f2a87bec7342c59"
+    },
+    {
+      "path": "mods/indium-1.0.9+mc1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/indium-1.0.9+mc1.19.2.jar",
+      "sha1": "a74ab16af990cf55dd1a3b5c76eadfc9ca25e25e"
+    },
+    {
+      "path": "mods/inmis-2.7.0-1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/inmis-2.7.0-1.19.jar",
+      "sha1": "f6c815958e7a1c495089dd9f45265a3fedb0b392"
+    },
+    {
+      "path": "mods/inmisaddon-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/inmisaddon-1.0.1.jar",
+      "sha1": "6122138b119fac168252c29ae149e1f857a9dda7"
+    },
+    {
+      "path": "mods/InventoryHUD-fabric-[1.19.1] -3.4.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/InventoryHUD-fabric-[1.19.1] -3.4.2.jar",
+      "sha1": "b57d8f07e4b004be297232681326b04976a2197e"
+    },
+    {
+      "path": "mods/iris-mc1.19.2-1.2.8.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/iris-mc1.19.2-1.2.8.jar",
+      "sha1": "4cccf2405e09e815b95dbca9a581da5f30ba3aad"
+    },
+    {
+      "path": "mods/item-model-fix-1.0.3+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/item-model-fix-1.0.3+1.19.jar",
+      "sha1": "3bc98ae80c3546dfcdc63c762c236895b7b2a845"
+    },
+    {
+      "path": "mods/jamlib-0.4.4.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/jamlib-0.4.4.jar",
+      "sha1": "3913b86a08b25e991d36e0e6058314145a5a0448"
+    },
+    {
+      "path": "mods/Kambrik-4.0-1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Kambrik-4.0-1.19.2.jar",
+      "sha1": "9b0da3c662988e840520b16218d904b992d1a7b7"
+    },
+    {
+      "path": "mods/kleeslabs-fabric-1.19-12.1.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/kleeslabs-fabric-1.19-12.1.0.jar",
+      "sha1": "a5bf3308cc16f3a8cf3fce7884011f65986f1c13"
+    },
+    {
+      "path": "mods/konkrete_fabric_1.5.0_MC_1.19.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/konkrete_fabric_1.5.0_MC_1.19.1.jar",
+      "sha1": "962fec42357f414a8e5de01a0fc39367602f1068"
+    },
+    {
+      "path": "mods/krypton-0.2.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/krypton-0.2.1.jar",
+      "sha1": "ebf02e469c028ea9e548401cacbb62e434874c08"
+    },
+    {
+      "path": "mods/lambdabettergrass-1.3.0+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/lambdabettergrass-1.3.0+1.19.jar",
+      "sha1": "740d161761c2136dd08ff9f41817a1093275a85d"
+    },
+    {
+      "path": "mods/lambdynamiclights-2.1.2+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/lambdynamiclights-2.1.2+1.19.jar",
+      "sha1": "0f2b1a29beb9521e11046f76674d78ddc86e1371"
+    },
+    {
+      "path": "mods/lazydfu-0.1.3.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/lazydfu-0.1.3.jar",
+      "sha1": "0dfa8b03ed408fb7fdada29e01cfebba02af1049"
+    },
+    {
+      "path": "mods/lithium-fabric-mc1.19.2-0.8.3.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/lithium-fabric-mc1.19.2-0.8.3.jar",
+      "sha1": "2b7ac2bb11944ebb77441539fa2a8a3f84e4ead1"
+    },
+    {
+      "path": "mods/MagnumTorch-v4.2.0-1.19.2-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/MagnumTorch-v4.2.0-1.19.2-Fabric.jar",
+      "sha1": "c88bef954c1a0f8dc3c6c5a1e87bbf16fd13c63a"
+    },
+    {
+      "path": "mods/mavm-1.1.0-mc1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/mavm-1.1.0-mc1.19.jar",
+      "sha1": "e59caeb5464069121d3d4ec3285867e3dbdbe19d"
+    },
+    {
+      "path": "mods/memoryleakfix-1.19.1-0.7.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/memoryleakfix-1.19.1-0.7.0.jar",
+      "sha1": "9ef7b93df46b599f96d8c0dba32753373e5e8a1a"
+    },
+    {
+      "path": "mods/midnightlib-0.6.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/midnightlib-0.6.0.jar",
+      "sha1": "6da31f2d13b4e5d49574ff235e45a2c6f8501ecd"
+    },
+    {
+      "path": "mods/modmenu-4.0.6.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/modmenu-4.0.6.jar",
+      "sha1": "9035d55b5d77ef4746aaf7fa0645e84927c76c57"
+    },
+    {
+      "path": "mods/moonlight-1.19.2-2.0.26-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/moonlight-1.19.2-2.0.26-fabric.jar",
+      "sha1": "5f6e812b4f1c3d50a45ad6b70ab2ed4b74dc62bd"
+    },
+    {
+      "path": "mods/More Babies-fabric-1.19.1-0.5.4.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/More Babies-fabric-1.19.1-0.5.4.jar",
+      "sha1": "41f969b26c22cdb5183d39d121dc4a6d33a5904e"
+    },
+    {
+      "path": "mods/more-geodes-1.5.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/more-geodes-1.5.jar",
+      "sha1": "d57e9b0cc5f9067544c9995d5f6d6d8b21ed329d"
+    },
+    {
+      "path": "mods/moremcmeta-1.19-3.0.5-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/moremcmeta-1.19-3.0.5-fabric.jar",
+      "sha1": "1bb7651185d532fbf07810e9e78972c36eb2bb5d"
+    },
+    {
+      "path": "mods/MouseTweaks-fabric-mc1.19-2.22.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/MouseTweaks-fabric-mc1.19-2.22.jar",
+      "sha1": "6004ccf55a3013c54fdbef3b28613c3326231d2c"
+    },
+    {
+      "path": "mods/mvs-2.5.8.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/mvs-2.5.8.jar",
+      "sha1": "5e3a72ae5fd1a3275cb2112ec97760c79f8e3e05"
+    },
+    {
+      "path": "mods/naturalist-fabric-2.1.1-1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/naturalist-fabric-2.1.1-1.19.2.jar",
+      "sha1": "ec4f556979e5677c0a1282f23c971555cfb39061"
+    },
+    {
+      "path": "mods/NaturesCompass-1.19.2-2.0.4-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/NaturesCompass-1.19.2-2.0.4-fabric.jar",
+      "sha1": "4037c1ef77716fc8e9773c0ab89f6c6497ee7216"
+    },
+    {
+      "path": "mods/nears-fabric-1.19-1.2.3.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/nears-fabric-1.19-1.2.3.jar",
+      "sha1": "7f1c8ed38b3db71496a1c59e3858a8f3d0fce046"
+    },
+    {
+      "path": "mods/NoChatReports-FABRIC-1.19.2-v1.11.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/NoChatReports-FABRIC-1.19.2-v1.11.2.jar",
+      "sha1": "213dc0c361ed71ac560810fc2ab00fab74f08aa6"
+    },
+    {
+      "path": "mods/notenoughanimations-fabric-1.6.1-mc1.19.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/notenoughanimations-fabric-1.6.1-mc1.19.1.jar",
+      "sha1": "ac38cd816611c7ac59addb9a632d62cddeaa6613"
+    },
+    {
+      "path": "mods/Oh_The_Biomes_You'll_Go-fabric-1.19.2-2.0.0.10.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Oh_The_Biomes_You'll_Go-fabric-1.19.2-2.0.0.10.jar",
+      "sha1": "88b312f542ebb1bd0dd5e02270c30fed409e8e5b"
+    },
+    {
+      "path": "mods/onsoulfire-1.19-2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/onsoulfire-1.19-2.jar",
+      "sha1": "eaa0cd4ed5b87907022781b1e9920d6b13538969"
+    },
+    {
+      "path": "mods/open-parties-and-claims-fabric-1.19.1-0.10.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/open-parties-and-claims-fabric-1.19.1-0.10.1.jar",
+      "sha1": "4bb1fa532809ee37e2ec00be0a5ce79eedb9a665"
+    },
+    {
+      "path": "mods/OpenLoader-Fabric-1.19.2-15.0.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/OpenLoader-Fabric-1.19.2-15.0.1.jar",
+      "sha1": "5c9aa1cce1402abddf210ce0c685c39f2fd9ec25"
+    },
+    {
+      "path": "mods/optigui-1.1.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/optigui-1.1.1.jar",
+      "sha1": "5da0d10efb27e8cc3db902ef5e2480d608fabf71"
+    },
+    {
+      "path": "mods/oxidized-1.7.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/oxidized-1.7.2.jar",
+      "sha1": "e8214e3df9432420e70858561881c96995a40ed7"
+    },
+    {
+      "path": "mods/Paintings-fabric-1.19.2-10.2.0.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Paintings-fabric-1.19.2-10.2.0.0.jar",
+      "sha1": "039336bba2f21ecf8065897ad1da5b31bc798d1d"
+    },
+    {
+      "path": "mods/Patchouli-1.19.2-76-FABRIC.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Patchouli-1.19.2-76-FABRIC.jar",
+      "sha1": "ed53bd5405a202e79b843cdb2b4e8a382bceb659"
+    },
+    {
+      "path": "mods/PickUpNotifier-v4.2.0-1.19.2-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/PickUpNotifier-v4.2.0-1.19.2-Fabric.jar",
+      "sha1": "5e347f0e8b8bd9dd01c8c7cd3187e1d081e518c6"
+    },
+    {
+      "path": "mods/polymorph-fabric-0.45.0+1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/polymorph-fabric-0.45.0+1.19.2.jar",
+      "sha1": "aa46df0034b2e497cf1a465cde73eaf3f0dc2ffe"
+    },
+    {
+      "path": "mods/puzzle-1.4.0-1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/puzzle-1.4.0-1.19.jar",
+      "sha1": "c265b7ecda0588febe0a723ccf6bf34bc6f31a56"
+    },
+    {
+      "path": "mods/PuzzlesLib-v4.3.1-1.19.2-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/PuzzlesLib-v4.3.1-1.19.2-Fabric.jar",
+      "sha1": "a72e41c3ab0b12fabf2add28f2ec9c7042ee3d68"
+    },
+    {
+      "path": "mods/quartz-elevator-2.1.5+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/quartz-elevator-2.1.5+1.19.jar",
+      "sha1": "139eaa3e464a686aa75f9d669e437e398a3b9368"
+    },
+    {
+      "path": "mods/reeses_sodium_options-1.4.7+mc1.19.2-build.59.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/reeses_sodium_options-1.4.7+mc1.19.2-build.59.jar",
+      "sha1": "b9cc6500afef896a577f7f07b635945d469e4b41"
+    },
+    {
+      "path": "mods/repurposed_structures_fabric-6.1.1+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/repurposed_structures_fabric-6.1.1+1.19.jar",
+      "sha1": "eb90a6152671df2c54c67050a97fad732f4e65b0"
+    },
+    {
+      "path": "mods/rer-2.6.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/rer-2.6.0.jar",
+      "sha1": "4d7df7f6b4f838c8646e4fa7b86388e974e86f98"
+    },
+    {
+      "path": "mods/rightclickharvest-3.0.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/rightclickharvest-3.0.1.jar",
+      "sha1": "2976d102af89cf85c8d6b784d8683ea640032f96"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-9.1.530.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/RoughlyEnoughItems-9.1.530.jar",
+      "sha1": "3611067a9a3c17ad53755e24cd6909a6659243f0"
+    },
+    {
+      "path": "mods/RoughlyEnoughProfessions-fabric-1.19-1.1.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/RoughlyEnoughProfessions-fabric-1.19-1.1.2.jar",
+      "sha1": "d368da3fa6b19acd163a210eac1e5fb5a25b2adb"
+    },
+    {
+      "path": "mods/SimpleDiscordRichPresence-fabric-2.0.1-build.17+mc1.19.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/SimpleDiscordRichPresence-fabric-2.0.1-build.17+mc1.19.1.jar",
+      "sha1": "049b86c07b9ce41cedc2a6c87b92521254d61594"
+    },
+    {
+      "path": "mods/smoothboot-fabric-1.19-1.7.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/smoothboot-fabric-1.19-1.7.1.jar",
+      "sha1": "8414cbce145a5f48102e6cc811dfd1459afe44f3"
+    },
+    {
+      "path": "mods/sodium-extra-0.4.10+mc1.19.2-build.64.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/sodium-extra-0.4.10+mc1.19.2-build.64.jar",
+      "sha1": "ea9ac83d25e16874bf5c673afdff56cc57aac156"
+    },
+    {
+      "path": "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
+      "sha1": "227648dc4f6a8604bafc282612a6de47eff70cd8"
+    },
+    {
+      "path": "mods/spirit-fabric-1.19.2-2.1.12.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/spirit-fabric-1.19.2-2.1.12.jar",
+      "sha1": "45872029d79fd77b42781e9b8712cfdf29ef473b"
+    },
+    {
+      "path": "mods/starlight-1.1.1+fabric.ae22326.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/starlight-1.1.1+fabric.ae22326.jar",
+      "sha1": "de6fe932555604345477db89b59d59249909c640"
+    },
+    {
+      "path": "mods/starterkit-fabric_1.19.2-3.7.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/starterkit-fabric_1.19.2-3.7.jar",
+      "sha1": "c440c0c02cd1781962d3d432142f1f993fbedb85"
+    },
+    {
+      "path": "mods/Structory-1.19-1.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Structory-1.19-1.2.jar",
+      "sha1": "5aed0ce2a7f86cc9b929c36951bfe785871ac86e"
+    },
+    {
+      "path": "mods/supplementaries-1.19.2-2.1.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/supplementaries-1.19.2-2.1.2-fabric.jar",
+      "sha1": "ce7b2cc0da0aa5292ff20f1cbf7fad5e4b3f3d4f"
+    },
+    {
+      "path": "mods/TerraBlender-fabric-1.19.2-2.0.1.127.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/TerraBlender-fabric-1.19.2-2.0.1.127.jar",
+      "sha1": "a9a0e727f49f3f8266ef7b2d73596a98f0202697"
+    },
+    {
+      "path": "mods/the_bumblezone_fabric-6.1.8+1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/the_bumblezone_fabric-6.1.8+1.19.2.jar",
+      "sha1": "9d9d8ab24593d31535a081789464f9f9525b0da4"
+    },
+    {
+      "path": "mods/thonkutil-2.15.4+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/thonkutil-2.15.4+1.19.jar",
+      "sha1": "bfe0afe4547d3f16c4095ef6644ff32522b33abb"
+    },
+    {
+      "path": "mods/Tips-Fabric-1.19.2-8.0.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Tips-Fabric-1.19.2-8.0.2.jar",
+      "sha1": "45cc83ebc5c647c5f3898bee25d83e71e7a70c11"
+    },
+    {
+      "path": "mods/toms_storage_fabric-1.19-1.4.0-pre1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/toms_storage_fabric-1.19-1.4.0-pre1.jar",
+      "sha1": "34f22b8f7d1fcc3e3fca7574c0d40d0548ab8df2"
+    },
+    {
+      "path": "mods/ToolStats-Fabric-1.19.2-12.0.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/ToolStats-Fabric-1.19.2-12.0.2.jar",
+      "sha1": "7ba609254bd3408fb05a9cb92ce2263698ef00ca"
+    },
+    {
+      "path": "mods/TradingPost-v4.2.0-1.19.2-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/TradingPost-v4.2.0-1.19.2-Fabric.jar",
+      "sha1": "a53fee75239a678684f716620b1784fcb6aa9a56"
+    },
+    {
+      "path": "mods/transparent-5.1.0+1.19-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/transparent-5.1.0+1.19-fabric.jar",
+      "sha1": "d05a64692bc025c77f6cec77ad251cd03e757491"
+    },
+    {
+      "path": "mods/trinkets-3.4.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/trinkets-3.4.0.jar",
+      "sha1": "4033ec814a8d4fb5900bfce826493731e623d6f0"
+    },
+    {
+      "path": "mods/twigs-2.0.0-beta.9+1.19-fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/twigs-2.0.0-beta.9+1.19-fabric.jar",
+      "sha1": "9f4d49bc18ec3ebbdb12b490b7b10caca710a0dc"
+    },
+    {
+      "path": "mods/universal_ores-1.4.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/universal_ores-1.4.2.jar",
+      "sha1": "d3918e862d743e9d4dddcfd900b7ed0096c5f90d"
+    },
+    {
+      "path": "mods/villagernames-1.19.2-4.0.7.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/villagernames-1.19.2-4.0.7.jar",
+      "sha1": "933661ebfc0150f54ed476bc2f14f11a25b9283e"
+    },
+    {
+      "path": "mods/visuality-0.5.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/visuality-0.5.1.jar",
+      "sha1": "c21bdf8fe7461f33538902ebdae31254ce3b31e5"
+    },
+    {
+      "path": "mods/VisualWorkbench-v4.2.0-1.19.2-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/VisualWorkbench-v4.2.0-1.19.2-Fabric.jar",
+      "sha1": "1e3c5c9a61940f483ddfcf20f45bb1558403272c"
+    },
+    {
+      "path": "mods/voidtotem-fabric-1.19.2-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/voidtotem-fabric-1.19.2-2.1.0.jar",
+      "sha1": "4afb5ef05e45d7970bfd2a5605df7b16578ead21"
+    },
+    {
+      "path": "mods/voidz-1.0.9.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/voidz-1.0.9.jar",
+      "sha1": "65ba79201472f86e10cd13004f1fee702e17f4b9"
+    },
+    {
+      "path": "mods/windchimes-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/windchimes-1.2.1.jar",
+      "sha1": "dbee2266355d3ae3f348efccbd9ecc1b2fa3a710"
+    },
+    {
+      "path": "mods/wolves-with-armor-1.8.0-1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/wolves-with-armor-1.8.0-1.19.jar",
+      "sha1": "d6444dd0b2b4a0726b55fc356817f69f0d5a4f92"
+    },
+    {
+      "path": "mods/woof-1.1.2-1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/woof-1.1.2-1.19.jar",
+      "sha1": "ad0e19c39b575c4d546e2a0899a16548d44b613a"
+    },
+    {
+      "path": "mods/wraith-waystones-3.0.3+mc1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/wraith-waystones-3.0.3+mc1.19.2.jar",
+      "sha1": "cc1e4b8e4d3a2af7d5cfa3733d84bfc0cc5b3576"
+    },
+    {
+      "path": "mods/wthit-fabric-5.12.0.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/wthit-fabric-5.12.0.jar",
+      "sha1": "c7d8359a74aae1c9942b1914d1887571f12facdc"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.26.6_Fabric_1.19.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/XaerosWorldMap_1.26.6_Fabric_1.19.1.jar",
+      "sha1": "fb3ca0fcbbeff5dfa556d750d60c82dd50951086"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_22.13.2_Fabric_1.19.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Xaeros_Minimap_22.13.2_Fabric_1.19.1.jar",
+      "sha1": "4849c55b62a74a229ef81caa565c5ba19dc985d6"
+    },
+    {
+      "path": "mods/xpstorage_trinkets-0.1+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/xpstorage_trinkets-0.1+1.19.jar",
+      "sha1": "c8b141bb533250d90ffd5d5ea1b320143e62644e"
+    },
+    {
+      "path": "mods/xp_storage-1.4.3+1.19.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/xp_storage-1.4.3+1.19.jar",
+      "sha1": "709242620a6775b897df417000442220a105939d"
+    },
+    {
+      "path": "mods/Zoomify-2.5.1.jar",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/mods/Zoomify-2.5.1.jar",
+      "sha1": "ec2c79ddd57f826b134bfd2e93a1f3d23dfda58f"
+    },
+    {
+      "path": "resourcepacks/Default-Dark-Mode-1.19-v1.3.4.zip",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/Default-Dark-Mode-1.19-v1.3.4.zip",
+      "sha1": "4b944eb6e9fbe144b7c06cc7a29e94897d0fb778"
+    },
+    {
+      "path": "resourcepacks/NoBushyLeaves.zip",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/NoBushyLeaves.zip",
+      "sha1": "6ee67a5199bc4d61da3c1fcab5ba7d9340731d2b"
+    },
+    {
+      "path": "resourcepacks/Stay_True_1.19.zip",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/Stay_True_1.19.zip",
+      "sha1": "fa2bfd3638eb5db9ebec1027984ae1f8d5d41835"
+    },
+    {
+      "path": "resourcepacks/Xaero's Minimap - Mod Icons.zip",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/Xaero's Minimap - Mod Icons.zip",
+      "sha1": "2ad8584f0fade7d4abe3e53dc7e87b0212753adb"
+    },
+    {
+      "path": "resourcepacks/xali-s-Enchanted-Books-16x-v0.10.1.zip",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/xali-s-Enchanted-Books-16x-v0.10.1.zip",
+      "sha1": "7c9b74cf77a76c236de77a871b872bc2b12a22da"
+    },
+    {
+      "path": "resourcepacks/Graphics/discord.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/Graphics/discord.png",
+      "sha1": "cb1bbb8a8f112fa6fb36897e5050beac93d04e86"
+    },
+    {
+      "path": "resourcepacks/Graphics/fabricapi.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/Graphics/fabricapi.png",
+      "sha1": "49afb8564d1088aa589e8a8c81575d057f1eddf5"
+    },
+    {
+      "path": "resourcepacks/Graphics/heart.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/Graphics/heart.png",
+      "sha1": "2a77b22eec03ffcd2ef1a2d590c1609c3d5b3610"
+    },
+    {
+      "path": "resourcepacks/Graphics/loading.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/Graphics/loading.png",
+      "sha1": "30b6d531acd55b9d22d15ae962653274c8a526e6"
+    },
+    {
+      "path": "resourcepacks/Graphics/logo.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/Graphics/logo.png",
+      "sha1": "138c72e8c98d82b2320015989b2505e768825baf"
+    },
+    {
+      "path": "resourcepacks/Graphics/lps.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/Graphics/lps.png",
+      "sha1": "0a322a700690c6d29ad7a79cc4ad24d24824315b"
+    },
+    {
+      "path": "resourcepacks/Graphics/mojang.png",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/packfiles/bettermc/resourcepacks/Graphics/mojang.png",
+      "sha1": "f62873ea351fe6a203f51bd078bc13a3a2a429e3"
     }
   ]
 }
