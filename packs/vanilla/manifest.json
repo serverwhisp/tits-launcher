@@ -1,9 +1,14 @@
 {
   "files": [
     {
-      "path": "mods/mod.jar",
-      "url": "https://...",
-      "sha1": "..."
+      "path": "mods/test1.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/files/test1.txt",
+      "sha1": ""
+    },
+    {
+      "path": "config/test2.txt",
+      "url": "https://raw.githubusercontent.com/serverwhisp/tits-launcher/main/files/test2.txt",
+      "sha1": ""
     }
   ]
 }
